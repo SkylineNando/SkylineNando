@@ -1,4 +1,4 @@
-<img align="right" width="480" height="270" src="https://media3.giphy.com/media/lrzcQz57rg48CDfg4h/giphy.gif">
+<img align="right" width="480" height="270" src="https://github.com/SkylineNando/SkylineNando/blob/master/giphy.gif">
 
 # Welcome!
 ## I'm Fernando! Let me present a little about myself :D
