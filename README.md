@@ -2,7 +2,11 @@
 
 # Welcome!
 ## I'm Fernando! Let me present a little about myself :D
-
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkylineNando&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkylineNando&layout=compact&langs_count=16&theme=dracula"/>
+<div>
 Full-Stack focused in Python on HTML5 | IA & Learning Machine :robot:
 
 Lover of Coffee, Technology and Coding :heart:
