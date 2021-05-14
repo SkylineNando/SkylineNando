@@ -1,18 +1,14 @@
 
 # Welcome!
 ## I'm Fernando! Let me present a little about myself :D
+Lover of Coffee, Technology and Coding :heart:
  <div>
   <a href="https://github.com/SkylineNando">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkylineNando&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkylineNando&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 <div>
-Full-Stack focused in Python on HTML5 | IA & Learning Machine :robot:
 
-Lover of Coffee, Technology and Coding :heart:
-
-- Thanks for visiting. 
-- Enjoy it!! o/
 ### Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/38151364/89708809-bfff1d80-d950-11ea-9be0-5bdf60e4c6ef.jpg" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/38151364/89708860-1bc9a680-d951-11ea-8b0a-cf2d9d7c6edf.png" />
