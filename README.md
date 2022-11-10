@@ -1,6 +1,6 @@
 
 # Welcome!
-## I'm Fernando! Let me present a little about myself :D
+## I'm Fernando! I don't have a university degree! however, I know that we all have the ability to create something new... :D
 Lover of Coffee, Technology and Coding :heart:
 
 <p align="center">
