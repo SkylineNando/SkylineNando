@@ -30,7 +30,7 @@ Lover of Coffee, Technology and Coding :heart:
 </div>
 <br />
 <br />
-> **🐍 Activity Snake**:
+**🐍 Activity Snake**:
 |![github-contribution-grid-snake](https://github.com/SkylineNando/SkylineNando/blob/master/github-user-contribution.svg)|
 |---|
 - Thanks for visiting. 
