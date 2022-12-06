@@ -32,7 +32,7 @@ Lover of Coffee, Technology and Coding :heart:
 <br />
 > **🐍 Activity Snake**:
 
-|![github-contribution-grid-snake](https://github.com/bylickilabs/bylickilabs/blob/output/github-contribution-grid-snake.svg)|
+|![github-contribution-grid-snake](https://github.com/SkylineNando/SkylineNando/blob/master/github-user-contribution.svg)|
 |---|
 - Thanks for visiting. 
 - Enjoy it!! o/
