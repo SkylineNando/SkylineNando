@@ -25,13 +25,13 @@ Lover of Coffee, Technology and Coding :heart:
   <img align="center" alt="Nando-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Nando-yoda" src="https://github.com/SkylineNando/SkylineNando/blob/master/yoda.gif">  </a>
+  <img align="center" alt="Nando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
 </div>
 <br />
 <br />
-**🐍 Activity Snake**:
-|![github-contribution-grid-snake](https://github.com/SkylineNando/SkylineNando/blob/master/github-user-contribution.svg)|
-|---|
-- Thanks for visiting. 
-- Enjoy it!! o/
+
+Activity Snake 
+
+  <img align="right" alt="Nando-yoda" src="https://github.com/SkylineNando/SkylineNando/blob/master/github-user-contribution.svg"> 
+<br/>
+
