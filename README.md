@@ -31,7 +31,6 @@ Lover of Coffee, Technology and Coding :heart:
 <br />
 <br />
 > **🐍 Activity Snake**:
-
 |![github-contribution-grid-snake](https://github.com/SkylineNando/SkylineNando/blob/master/github-user-contribution.svg#gh-dark-mode-only)|
 |---|
 - Thanks for visiting. 
