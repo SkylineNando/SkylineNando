@@ -32,6 +32,6 @@ Lover of Coffee, Technology and Coding :heart:
 
 Activity Snake 
 
-  <img align="right" alt="Nando-yoda" src="https://github.com/SkylineNando/SkylineNando/blob/master/github-user-contribution.svg"> 
+  <img align="right" alt="Nando-yoda" src="https://github.com/SkylineNando/SkylineNando/blob/master/github-user-contribution-23.svg"> 
 <br/>
 
