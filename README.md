@@ -9,11 +9,6 @@ Lover of Coffee, Technology and Coding :heart:
 		<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=skylinenando&theme=dark&hide_border=true">
 	</a>
 </p>
-<p align="center">
-	<a href="https://github.com/SkylineNando/a_cool_blog">
-		<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=skylinenando&theme=dark&hide_border=true">
-	</a>
-</p>
  
 ### Languages and Tools:
 <div style="display: inline_block"><br> <a href="https://github.com/SkylineNando">
