@@ -1,7 +1,8 @@
 
 # Welcome!
-## I'm Fernando! I don't have a university degree! however, I know that we all have the ability to create something new... :D
-Lover of Coffee, Technology and Coding :heart:
+## I don't have a university degree! however, I know that we all have the ability to create something new... :D
+Lover of Coffee, Technology, Travel and Coding
+ :heart:
 
 <p align="center">
 		<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=skylinenando&theme=dark&hide_border=true"  style="pointer-events: none;">
