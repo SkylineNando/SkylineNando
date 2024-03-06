@@ -4,8 +4,8 @@
 Lover of Coffee, Technology and Coding :heart:
 
 <p align="center">
-		<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=skylinenando&theme=dark&hide_border=true">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api?username=SkylineNando&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
+		<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=skylinenando&theme=dark&hide_border=true"  style="pointer-events: none;">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api?username=SkylineNando&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"  style="pointer-events: none;">
 </p>
  
 ### Languages and Tools:
