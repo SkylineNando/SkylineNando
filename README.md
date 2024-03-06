@@ -5,12 +5,7 @@ Lover of Coffee, Technology and Coding :heart:
 
 <p align="center">
 	<a href="https://github.com/SkylineNando/a_cool_blog">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api?username=SkylineNando&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-	</a>
-</p>
- <p align="center">
-	<a href="https://github.com/SkylineNando/a_cool_blog">
-		<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=SkylineNando&include_all_commits=true&hide_border=true&theme=dracula">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api?username=SkylineNando&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 	</a>
 </p>
 <p align="center">
