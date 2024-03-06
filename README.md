@@ -15,7 +15,7 @@ Lover of Coffee, Technology and Coding :heart:
 </p>
 <p align="center">
 	<a href="https://github.com/SkylineNando/a_cool_blog">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkylineNando&layout=compact&langs_count=16&theme=dracula">
+		<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=skylinenando&theme=dark&hide_border=true">
 	</a>
 </p>
  
